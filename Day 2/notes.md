@@ -1,0 +1,1 @@
+In day 2 all types of operaters and some conditional statement had been discuss and understand.
